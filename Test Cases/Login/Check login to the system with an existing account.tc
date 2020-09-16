@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check login to the system with an existing account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3462579-732c-466d-a070-1ec2de5812c3</testCaseGuid>
+</TestCaseEntity>
